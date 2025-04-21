@@ -1,4 +1,4 @@
   method ZFILE.
 write 'test'.
-write 'test'.
+write 'txkjfdh'.
   endmethod.
